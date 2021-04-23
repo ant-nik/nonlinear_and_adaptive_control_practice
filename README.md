@@ -1,1 +1,1 @@
-# nonlinear_and_adaptive_control_practice
+This is a repository for Juniper notebooks that are a part of university course "Nonlinear and adaptive control systems".
